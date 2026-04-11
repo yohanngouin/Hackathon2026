@@ -1,2 +1,2 @@
-# Hackathon2026
-My project for the hackathon
+# WiFi Whisperer
+A smart campus tool that helps students find the best place to study based on real-time WiFi quality. Instead of guessing where the signal is strongest, users can scan their surroundings and contribute to a live heatmap of campus connectivity. Our system analyzes signal strength and network conditions to recommend the best nearby spots for fast, reliable internet. Whether you're trying to join a Zoom call or submit an assignment before the deadline, WiFi Whisperer takes the frustration out of bad connections and helps you stay productive.
