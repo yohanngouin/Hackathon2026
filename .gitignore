@@ -1,0 +1,40 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# VS Code local settings
+.vscode/
+
+# JavaScript dependenciess
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite3
+
+# Python testing and cache
+.pytest_cache/
+.coverage
+htmlcov/
+  
